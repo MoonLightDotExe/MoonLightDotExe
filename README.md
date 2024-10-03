@@ -1,16 +1,22 @@
-## Hi there 👋
+# Hey There! I'm Om! 😊
+Love to code and dive deep into tech! 
+My Areas of Expertise include Web Development, Cloud Computing and Machine Learning 🔥  
 
-<!--
-**MoonLightDotExe/MoonLightDotExe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 👨‍💻 About Me:
+I'm currently a student from Mumbai, pursuing a degree in Computer Science and Engineering with a focus on Cloud Computing and Machine Learning.  
+I love exploring tech trends, and I'm constantly searching for the next thing to learn.  
+Fascinated by the world of Machine Learning and Vision and currently focused into understanding it deeply.
 
-Here are some ideas to get you started:
+## 🛠️ Languages and Tools:
+[![My Skills](https://skillicons.dev/icons?i=c,cpp,py,java,html,css,js,nodejs,react,mongodb,mysql,aws,bash,bootstrap,docker)](https://skillicons.dev)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Frameworks:
+[![My Skills](https://skillicons.dev/icons?i=react,nodejs,opencv,tensorflow,pytorch)](https://skillicons.dev)
+
+## 💻 OS & IDEs:
+[![My Skills](https://skillicons.dev/icons?i=windows,linux,vscode,pycharm)](https://skillicons.dev)
+
+## 📫 Contact Me:
+To get in touch with me:
+- Linked In: [Om Amonkar](https://www.linkedin.com/in/om-amonkar-b3a101257/)
+- Email: ompamonkar@gmail.com
